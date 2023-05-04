@@ -1,0 +1,7 @@
+#include<studio.h>
+Int main() {
+Printf("welcome to Data Structures Lab");
+return 0;
+}
+Footer
+© 2023 GitHub, I
